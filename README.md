@@ -2,9 +2,9 @@
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
-Name : SUJITH A
+Name : SHREYESHKAR SEKAR
 
-REG NO : 212224230278
+REG NO : 212224220099
 ## Client:
 1. Start the program
 2. Using socket connection is established between client and server.
