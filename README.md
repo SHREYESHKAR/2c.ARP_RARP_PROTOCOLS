@@ -1,10 +1,11 @@
+## Name : SHREYESHKAR SEKAR
+## REG NO : 212224220099
+
 # 2c.SIMULATING ARP /RARP PROTOCOLS
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
-Name : SHREYESHKAR SEKAR
 
-REG NO : 212224220099
 ## Client:
 1. Start the program
 2. Using socket connection is established between client and server.
